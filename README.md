@@ -1,4 +1,4 @@
-# Evaluating Model Performance and Hyperparameter Optimization for Wine Quality Classification: SVM, K-NN, Decision Tree, and Random Forest Models
+## Evaluating Model Performance and Hyperparameter Optimization for Wine Quality Classification: SVM, K-NN, Decision Tree, and Random Forest Models
 
 The purpose of this project is to selected the model with highest accuracy and model performance to classify Wines by quality. The comparison accross models is achieved by checking multiple Kernel types in Support Vector Machine (SVM), n_neighbors in K-nearest neighbours (K-NN) , maximum depth in Decision Tree (DT) and GridSearchCV hyperparameters tuning for Random Forest (RF) classification algorithms for Binary and Multi-class tasks.
 
